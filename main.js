@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Example Test Data
     raffleData['07'] = { state: 'pending', name: 'Sebastian Niño' };
     raffleData['56'] = { state: 'pending', name: 'Sebastian Niño' };
-    raffleData['16'] = { state: 'pending', name: 'Natalia Rodriguez' };
-    raffleData['03'] = { state: 'pending', name: 'Natalia Rodriguez' };
+    raffleData['16'] = { state: 'paid', name: 'Natalia Rodriguez' };
+    raffleData['03'] = { state: 'paid', name: 'Natalia Rodriguez' };
     raffleData['14'] = { state: 'pending', name: 'Mauricio Linares' };
     raffleData['09'] = { state: 'paid', name: 'Carolina Rodriguez' };
     raffleData['13'] = { state: 'paid', name: 'Carolina Rodriguez' };
