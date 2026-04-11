@@ -6,7 +6,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const raffleData = {};
 
     // Example Test Data
-    // raffleData['07'] = { state: 'pending', name: 'Juan Pérez' };
+    raffleData['07'] = { state: 'pending', name: 'Sebastian Niño' };
+    raffleData['56'] = { state: 'pending', name: 'Sebastian Niño' };
+    raffleData['16'] = { state: 'pending', name: 'Natalia Rodriguez' };
+    raffleData['03'] = { state: 'pending', name: 'Natalia Rodriguez' };
+    raffleData['14'] = { state: 'pending', name: 'Mauricio Linares' };
+    raffleData['09'] = { state: 'pending', name: 'Carolina Rodriguez' };
+    raffleData['13'] = { state: 'pending', name: 'Carolina Rodriguez' };
+    raffleData['28'] = { state: 'pending', name: 'Carolina Rodriguez' };
+    raffleData['61'] = { state: 'pending', name: 'Alvaro Linares' };
+    raffleData['65'] = { state: 'pending', name: 'Alvaro Linares' };
+
     // raffleData['12'] = { state: 'pending', name: 'María Gómez' };
     // raffleData['24'] = { state: 'paid', name: 'Carlos López' };
     // raffleData['45'] = { state: 'pending', name: 'Ana Silva' };
