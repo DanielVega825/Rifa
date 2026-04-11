@@ -24,6 +24,13 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['63'] = { state: 'pending', name: 'Luisa Vega' };
     raffleData['06'] = { state: 'pending', name: 'Adinael Vega' };
 
+    //Janeth
+    raffleData['18'] = { state: 'paid', name: 'Janeth Casallas' };
+    raffleData['21'] = { state: 'paid', name: 'Janeth Casallas' };
+    raffleData['35'] = { state: 'paid', name: 'Janeth Casallas' };
+    raffleData['26'] = { state: 'paid', name: 'Janeth Casallas' };
+    raffleData['89'] = { state: 'paid', name: 'Janeth Casallas' };
+
     // raffleData['12'] = { state: 'pending', name: 'María Gómez' };
     // raffleData['24'] = { state: 'paid', name: 'Carlos López' };
     // raffleData['45'] = { state: 'pending', name: 'Ana Silva' };
