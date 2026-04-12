@@ -37,11 +37,21 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['50'] = { state: 'pending', name: 'Pedro Linares' };
 
     //DianaVega
-    raffleData['32'] = { state: 'pending', name: 'Diana Vega' };
+    raffleData['32'] = { state: 'paid', name: 'Diana Vega' };
 
     //Diego Vega
-    raffleData['11'] = { state: 'pending', name: 'Diego Vega' };
-    raffleData['25'] = { state: 'pending', name: 'Diego Vega' };
+    raffleData['11'] = { state: 'paid', name: 'Diego Vega' };
+    raffleData['25'] = { state: 'paid', name: 'Diego Vega' };
+
+    //Lala
+    raffleData['00'] = { state: 'pending', name: 'Gloria' };
+    raffleData['02'] = { state: 'pending', name: 'Gloria' };
+    raffleData['96'] = { state: 'pending', name: 'Gloria' };
+    raffleData['81'] = { state: 'pending', name: 'Gloria' };
+    raffleData['98'] = { state: 'pending', name: 'Gloria' };
+    raffleData['38'] = { state: 'pending', name: 'Gloria' };
+    raffleData['58'] = { state: 'pending', name: 'Gloria' };
+    raffleData['86'] = { state: 'pending', name: 'Gloria' };
 
     // raffleData['12'] = { state: 'pending', name: 'María Gómez' };
     // raffleData['24'] = { state: 'paid', name: 'Carlos López' };
