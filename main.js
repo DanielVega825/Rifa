@@ -68,12 +68,9 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['01'] = { state: 'pending', name: 'Magaly-Lyna' };
     raffleData['04'] = { state: 'pending', name: 'Magaly-Lyna' };
 
-    // raffleData['12'] = { state: 'pending', name: 'María Gómez' };
-    // raffleData['24'] = { state: 'paid', name: 'Carlos López' };
-    // raffleData['45'] = { state: 'pending', name: 'Ana Silva' };
-    // raffleData['67'] = { state: 'paid', name: 'David Torres' };
-    // raffleData['88'] = { state: 'pending', name: 'Laura Martínez' };
-    // raffleData['99'] = { state: 'paid', name: 'Daniel García' };
+    raffleData['19'] = { state: 'pending', name: 'Cristian-Lyna' };
+
+
 
     // Generate grid from 00 to 99
     for (let i = 0; i < 100; i++) {
