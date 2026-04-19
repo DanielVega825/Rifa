@@ -102,8 +102,8 @@ document.addEventListener('DOMContentLoaded', () => {
     //Lyna de nuevo
     raffleData['70'] = { state: 'pending', name: 'Marcela - Lyna' };
     raffleData['79'] = { state: 'pending', name: 'Marcela - Lyna' };
-    raffleData['69'] = { state: 'paid', name: 'Lucia Linares' };
-    raffleData['69'] = { state: 'paid', name: 'Lucia Linares' };
+    raffleData['97'] = { state: 'paid', name: 'Lucia Linares' };
+    raffleData['76'] = { state: 'paid', name: 'Lucia Linares' };
 
 
 
