@@ -65,8 +65,8 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['75'] = { state: 'pending', name: 'Gloria' };
 
     //Magaly-Lyna-pendiente
-    raffleData['01'] = { state: 'pending', name: 'Magaly-Lyna' };
-    raffleData['04'] = { state: 'pending', name: 'Magaly-Lyna' };
+    raffleData['01'] = { state: 'paid', name: 'Magaly-Lyna' };
+    raffleData['04'] = { state: 'paid', name: 'Magaly-Lyna' };
 
     raffleData['19'] = { state: 'pending', name: 'Cristian-Lyna' };
 
