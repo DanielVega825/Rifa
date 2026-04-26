@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['65'] = { state: 'paid', name: 'Alvaro Linares' };
     raffleData['78'] = { state: 'paid', name: 'Pato' };
     raffleData['15'] = { state: 'paid', name: 'Pato' };
-    raffleData['17'] = { state: 'pending', name: 'Yesica' };
+    raffleData['17'] = { state: 'paid', name: 'Yesica' };
 
     //Vega Dias
     raffleData['12'] = { state: 'paid', name: 'Maritza Diaz' };
