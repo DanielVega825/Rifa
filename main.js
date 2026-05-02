@@ -120,6 +120,9 @@ document.addEventListener('DOMContentLoaded', () => {
     //Stella Beltran
     raffleData['45'] = { state: 'paid', name: 'Stella Beltran' };
 
+    //Lyna
+    raffleData['92'] = { state: 'pending', name: 'Jesus - Lyna' };
+
 
     // Generate grid from 00 to 99
     for (let i = 0; i < 100; i++) {
