@@ -121,7 +121,13 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['45'] = { state: 'paid', name: 'Stella Beltran' };
 
     //Lyna
-    raffleData['92'] = { state: 'pending', name: 'Jesus - Lyna' };
+    raffleData['92'] = { state: 'paid', name: 'Jesus - Lyna' };
+
+    //Armando
+    raffleData['84'] = { state: 'paid', name: 'Armando' };
+
+    //Daniel Diaz
+    raffleData['42'] = { state: 'pending', name: 'Daniel Diaz' };
 
 
     // Generate grid from 00 to 99
