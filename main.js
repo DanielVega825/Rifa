@@ -46,23 +46,22 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['25'] = { state: 'paid', name: 'Diego Vega' };
 
     //Lala
-    raffleData['00'] = { state: 'pending', name: 'Gloria' };
-    raffleData['02'] = { state: 'pending', name: 'Gloria' };
-    raffleData['96'] = { state: 'pending', name: 'Gloria' };
-    raffleData['81'] = { state: 'pending', name: 'Gloria' };
-    raffleData['98'] = { state: 'pending', name: 'Gloria' };
-    raffleData['38'] = { state: 'pending', name: 'Gloria' };
-    raffleData['58'] = { state: 'pending', name: 'Gloria' };
-    raffleData['86'] = { state: 'pending', name: 'Gloria' };
-
+    raffleData['02'] = { state: 'paid', name: 'Gloria' };
+    raffleData['00'] = { state: 'paid', name: 'Gloria' };
+    raffleData['96'] = { state: 'paid', name: 'Gloria' };
+    raffleData['81'] = { state: 'paid', name: 'Gloria' };
+    raffleData['98'] = { state: 'paid', name: 'Gloria' };
+    raffleData['38'] = { state: 'paid', name: 'Gloria' };
+    raffleData['58'] = { state: 'paid', name: 'Gloria' };
+    raffleData['86'] = { state: 'paid', name: 'Gloria' };
     //lala 2
-    raffleData['27'] = { state: 'pending', name: 'Gloria' };
-    raffleData['46'] = { state: 'pending', name: 'Gloria' };
-    raffleData['37'] = { state: 'pending', name: 'Gloria' };
-    raffleData['47'] = { state: 'pending', name: 'Gloria' };
-    raffleData['57'] = { state: 'pending', name: 'Gloria' };
-    raffleData['68'] = { state: 'pending', name: 'Gloria' };
-    raffleData['75'] = { state: 'pending', name: 'Gloria' };
+    raffleData['27'] = { state: 'paid', name: 'Gloria' };
+    raffleData['46'] = { state: 'paid', name: 'Gloria' };
+    raffleData['37'] = { state: 'paid', name: 'Gloria' };
+    raffleData['47'] = { state: 'paid', name: 'Gloria' };
+    raffleData['57'] = { state: 'paid', name: 'Gloria' };
+    raffleData['68'] = { state: 'paid', name: 'Gloria' };
+    raffleData['75'] = { state: 'paid', name: 'Gloria' };
 
     //Magaly-Lyna-pendiente
     raffleData['01'] = { state: 'paid', name: 'Magaly-Lyna' };
@@ -72,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //Maria
     raffleData['87'] = { state: 'paid', name: 'Maria Garcia' };
-    raffleData['41'] = { state: 'pending', name: 'Paula Garcia' };
+    raffleData['41'] = { state: 'paid', name: 'Paula Garcia' };
     raffleData['39'] = { state: 'pending', name: 'Sonia Garcia' };
 
     //gloria Lyna
@@ -130,7 +129,10 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['42'] = { state: 'paid', name: 'Daniel Diaz' };
 
     //Lala 
-    raffleData['29'] = { state: 'pending', name: 'Gloria' };
+    raffleData['29'] = { state: 'paid', name: 'Gloria' };
+
+    //Julian
+    raffleData['34'] = { state: 'pending', name: 'Julian' };
 
 
     // Generate grid from 00 to 99
