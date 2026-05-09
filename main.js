@@ -134,6 +134,12 @@ document.addEventListener('DOMContentLoaded', () => {
     //Julian
     raffleData['34'] = { state: 'pending', name: 'Julian' };
 
+    //Jhonatan 43, 85, 91 y 88
+    raffleData['43'] = { state: 'pending', name: 'Jhonatan' };
+    raffleData['85'] = { state: 'pending', name: 'Jhonatan' };
+    raffleData['91'] = { state: 'pending', name: 'Jhonatan' };
+    raffleData['88'] = { state: 'pending', name: 'Jhonatan' };
+
 
     // Generate grid from 00 to 99
     for (let i = 0; i < 100; i++) {
