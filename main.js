@@ -140,6 +140,11 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['43'] = { state: 'paid', name: 'Jhonatan' };
     raffleData['88'] = { state: 'paid', name: 'Jhonatan' };
 
+    //Pendiente Victor Linares
+
+    //Alejo    
+    raffleData['71'] = { state: 'paid', name: 'Alejo' };
+
 
     // Generate grid from 00 to 99
     for (let i = 0; i < 100; i++) {
