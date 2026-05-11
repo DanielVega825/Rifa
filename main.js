@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['01'] = { state: 'paid', name: 'Magaly-Lyna' };
     raffleData['04'] = { state: 'paid', name: 'Magaly-Lyna' };
 
-    raffleData['19'] = { state: 'pending', name: 'Cristian-Lyna' };
+    raffleData['19'] = { state: 'paid', name: 'Cristian-Lyna' };
 
     //Maria
     raffleData['87'] = { state: 'paid', name: 'Maria Garcia' };
@@ -82,8 +82,8 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['73'] = { state: 'paid', name: 'William-Lyna' };
 
     //Mamá
-    raffleData['67'] = { state: 'pending', name: 'Judith Linares' };
-    raffleData['53'] = { state: 'pending', name: 'Andres Gonzalez' };
+    raffleData['67'] = { state: 'paid', name: 'Judith Linares' };
+    raffleData['53'] = { state: 'paid', name: 'Andres Gonzalez' };
 
     raffleData['24'] = { state: 'pending', name: 'Miguel - Daniel' };
     raffleData['77'] = { state: 'paid', name: 'Paola - Daniel' };
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['44'] = { state: 'paid', name: 'Fabian - Daniel' };
     raffleData['22'] = { state: 'paid', name: 'Natalia Villalobos' };
     raffleData['64'] = { state: 'paid', name: 'Arnols Alejandro' };
-    raffleData['48'] = { state: 'pending', name: 'Laura Cifuentes' };
+    raffleData['48'] = { state: 'paid', name: 'Laura Cifuentes' };
     raffleData['69'] = { state: 'paid', name: 'Richie' };
     raffleData['08'] = { state: 'pending', name: 'Arlex Beltran' };
 
@@ -105,8 +105,8 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['76'] = { state: 'paid', name: 'Lucia Linares' };
 
     //Don Julio - Lyna
-    raffleData['59'] = { state: 'pending', name: 'Don Julio - Lyna' };
-    raffleData['82'] = { state: 'pending', name: 'Don Julio - Lyna' };
+    raffleData['59'] = { state: 'paid', name: 'Don Julio - Lyna' };
+    raffleData['82'] = { state: 'paid', name: 'Sra Gladys - Lyna' };
 
     //Daniel
     raffleData['20'] = { state: 'paid', name: 'Nicolas Novoa' };
@@ -144,6 +144,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //Alejo    
     raffleData['71'] = { state: 'paid', name: 'Alejo' };
+
+    //Pa'
+    raffleData['66'] = { state: 'paid', name: 'Jose Vega' };
+    raffleData['99'] = { state: 'paid', name: 'Jose Vega' };
+
+    //Lyna 120 + ma' 140
+    raffleData['62'] = { state: 'paid', name: 'Lyna' };
+    raffleData['94'] = { state: 'paid', name: 'Lyna' };
+    raffleData['60'] = { state: 'paid', name: 'Lyna' };
+    raffleData['52'] = { state: 'paid', name: 'Lyna' };
+
+    
 
 
     // Generate grid from 00 to 99
