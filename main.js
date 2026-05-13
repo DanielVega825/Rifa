@@ -149,11 +149,13 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['66'] = { state: 'paid', name: 'Jose Vega' };
     raffleData['99'] = { state: 'paid', name: 'Jose Vega' };
 
-    //Lyna 120 + ma' 140
+    //Lyna 120 + ma' 140 + dionisio 150
     raffleData['62'] = { state: 'paid', name: 'Lyna' };
     raffleData['94'] = { state: 'paid', name: 'Lyna' };
     raffleData['60'] = { state: 'paid', name: 'Lyna' };
     raffleData['52'] = { state: 'paid', name: 'Lyna' };
+
+    raffleData['95'] = { state: 'paid', name: 'David Vega' };
 
     
 
