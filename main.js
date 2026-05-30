@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
     //Maria
     raffleData['87'] = { state: 'paid', name: 'Maria Garcia' };
     raffleData['41'] = { state: 'paid', name: 'Paula Garcia' };
-    raffleData['39'] = { state: 'pending', name: 'Sonia Garcia' };
+    raffleData['39'] = { state: 'paid', name: 'Sonia Garcia' };
 
     //gloria Lyna
     raffleData['55'] = { state: 'paid', name: 'Gloria-Lyna' };
@@ -85,18 +85,18 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['67'] = { state: 'paid', name: 'Judith Linares' };
     raffleData['53'] = { state: 'paid', name: 'Andres Gonzalez' };
 
-    raffleData['24'] = { state: 'pending', name: 'Miguel - Daniel' };
+    raffleData['24'] = { state: 'paid', name: 'Miguel - Daniel' };
     raffleData['77'] = { state: 'paid', name: 'Paola - Daniel' };
     raffleData['49'] = { state: 'paid', name: 'Laura Rojas' };
-    raffleData['74'] = { state: 'pending', name: 'Laura Jimenez' };
-    raffleData['05'] = { state: 'pending', name: 'Laura Jimenez' };
+    raffleData['74'] = { state: 'paid', name: 'Laura Jimenez' };
+    raffleData['05'] = { state: 'paid', name: 'Laura Jimenez' };
 
     raffleData['44'] = { state: 'paid', name: 'Fabian - Daniel' };
     raffleData['22'] = { state: 'paid', name: 'Natalia Villalobos' };
     raffleData['64'] = { state: 'paid', name: 'Arnols Alejandro' };
     raffleData['48'] = { state: 'paid', name: 'Laura Cifuentes' };
     raffleData['69'] = { state: 'paid', name: 'Richie' };
-    raffleData['08'] = { state: 'pending', name: 'Arlex Beltran' };
+    raffleData['08'] = { state: 'paid', name: 'Arlex Beltran' };
 
     //Lyna de nuevo
     raffleData['70'] = { state: 'paid', name: 'Marcela - Lyna' };
@@ -111,10 +111,10 @@ document.addEventListener('DOMContentLoaded', () => {
     //Daniel
     raffleData['20'] = { state: 'paid', name: 'Nicolas Novoa' };
     raffleData['10'] = { state: 'paid', name: 'Nicolas Novoa' };
-    raffleData['83'] = { state: 'pending', name: 'Edwin' };
+    raffleData['83'] = { state: 'paid', name: 'Edwin' };
 
-    raffleData['36'] = { state: 'pending', name: 'Yudis' };
-    raffleData['31'] = { state: 'pending', name: 'Nicolas Chiquiza' };
+    raffleData['36'] = { state: 'paid', name: 'Yudis' };
+    raffleData['31'] = { state: 'paid', name: 'Nicolas Chiquiza' };
 
     //Stella Beltran
     raffleData['45'] = { state: 'paid', name: 'Stella Beltran' };
@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['29'] = { state: 'paid', name: 'Gloria' };
 
     //Julian
-    raffleData['34'] = { state: 'pending', name: 'Julian' };
+    raffleData['34'] = { state: 'paid', name: 'Julian' };
 
     //Jhonatan 43, 85, 91 y 88
     raffleData['85'] = { state: 'paid', name: 'Jhonatan' };
@@ -156,6 +156,14 @@ document.addEventListener('DOMContentLoaded', () => {
     raffleData['52'] = { state: 'paid', name: 'Lyna' };
 
     raffleData['95'] = { state: 'paid', name: 'David Vega' };
+
+    //Nuevos
+    raffleData['51'] = { state: 'paid', name: 'Paola' };
+    raffleData['80'] = { state: 'paid', name: 'Victor Linares' };
+    raffleData['40'] = { state: 'paid', name: 'Victor Linares' };
+    raffleData['30'] = { state: 'paid', name: 'Daniel' };
+    raffleData['90'] = { state: 'paid', name: 'Judith' };
+    raffleData['93'] = { state: 'paid', name: 'Jose' };
 
     
 
